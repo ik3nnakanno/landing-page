@@ -1,0 +1,58 @@
+*{
+    margin: 5px;
+    padding: 0%;
+    font-family: cursive;
+    background-color: rgb(14, 14, 27);
+    color: crimson;
+}
+.planetz{
+    font-weight: 500;
+    font-size: 45px;
+    margin: 20px;
+    color: orangered;
+}
+.links{
+    text-align: right;
+    padding-right: 35px;
+    padding-top: 3px;
+}
+.links li{
+   display: inline;
+   word-spacing: 20px;
+}
+.links li a{
+    text-decoration: none;
+    color: chocolate;
+}
+.containers{
+    height: 500px;
+    padding: 0px;
+    gap: 5px;
+    display: flex;
+    margin: 0px;
+    justify-items: center;
+}
+.item{
+    width: 700px;
+    height: 500px;
+    align-content: center;
+}
+
+.button{
+    position: relative;
+    color: crimson;
+    padding: 10px;
+    border: 1px solid black;
+    background: transparent;
+    display: inline-block;
+    text-decoration: none;
+}
+.button a{
+    text-decoration: none;
+}
+.ab{
+    text-align: right;
+}
+.ab a{
+    text-decoration: none;
+}

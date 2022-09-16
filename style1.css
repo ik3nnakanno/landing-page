@@ -1,0 +1,11 @@
+*{
+    background-color: rgb(23, 23, 43);
+    font-family: cursive;
+    padding: 0%;
+    margin: 10px;
+    color: chocolate;
+}
+.topic{
+    color: crimson;
+    padding: 5px;
+}
